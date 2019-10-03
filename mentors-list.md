@@ -20,6 +20,7 @@ Facebook -> [@user_name](https://www.facebook.com/user_name)
 
 | NOME | TIPO DE MENTORIA | CONTATO |
 | :--- | :--- | :--- |
+| [Fernando Migliorini Tenório](https://github.com/dotenorio) | FULL-STACK / INICIANTES EM PROGRAMAÇÃO / NODEJS / KOTLIN | [@dotenorio](https://t.me/dotenorio) |
 | [Ana Coimbra](https://github.com/anacoimbrag) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN / JAVA | [@anacoimbrag](https://t.me/anacoimbrag) |
 | [Vinícius Oliveira](https://www.linkedin.com/in/viniciusmo/) | MOBILE ANDROID / INICIANTES EM PROGRAMAÇÃO / KOTLIN | [@vinimoises](https://telegram.me/vinimoises) |
 | [Ingo Hoffmann](https://github.com/lasombra) | BACK-END / JAVA / INFRA (DEVOPS) | [@lasombra_br](https://twitter.com/lasombra_br) |
